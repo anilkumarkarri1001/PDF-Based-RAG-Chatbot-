@@ -1,0 +1,12 @@
+
+.env
+.env.*
+!.env.example
+
+rag_env/
+venv/
+__pycache__/
+*.py[cod]
+
+chroma_db/
+uploads/
